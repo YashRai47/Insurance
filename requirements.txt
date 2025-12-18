@@ -1,0 +1,16 @@
+# LangChain and LangGraph
+langgraph>=0.0.20
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-core>=0.1.0
+python-dotenv
+# Azure services
+azure-cosmos>=4.5.0
+openai>=1.10.0
+
+# Data processing
+python-dateutil>=2.8.2
+
+# Optional: For enhanced functionality
+pydantic>=2.0.0
+typing-extensions>=4.9.0
